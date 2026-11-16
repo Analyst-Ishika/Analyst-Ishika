@@ -11,8 +11,9 @@
   <a href="https://linkedin.com/in/ishikamittalofficial">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
+  &nbsp;
   <a href="mailto:ishikamital142@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email" />
+    📧 ishikamital142@gmail.com
   </a>
 </p>
 
